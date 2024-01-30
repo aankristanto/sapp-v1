@@ -33,17 +33,6 @@
             android:name=".RegistrationActivity"
             android:exported="false" />
         <activity
-            android:name=".RegistrasiActivity"
-            android:exported="false" />
-        <activity
-            android:name=".registrasiActivity"
-            android:exported="false"
-            android:label="@string/title_activity_registrasi"
-            android:theme="@style/Theme.Sapp_v1" />
-        <activity
-            android:name=".registrasi"
-            android:exported="false" />
-        <activity
             android:name=".LoginActivity"
             android:exported="false" />
     </application>
