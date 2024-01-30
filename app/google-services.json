@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635989399564",
+    "project_id": "sapp-sherly-v1",
+    "storage_bucket": "sapp-sherly-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635989399564:android:dac63e73e2ec766c09b629",
+        "android_client_info": {
+          "package_name": "com.sherlypradipta.sapp_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvvXxHmDBy_qkUPP6KXrYs1gY5A_Culo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
